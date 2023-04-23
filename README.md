@@ -1,2 +1,8 @@
-# gym_management
-A gym management system website is a platform that helps gym owners and managers to manage various aspects of their gym operations. This system typically includes features such as member management, class scheduling and registration, payment processing, staff management, and equipment management.
+# gym-management
+Gym Management System provides an easy to use interface for the users and a database for the admin to maintain the records of gym members.
+
+## Screenshots
+### Login Page
+![login page](/images/login.png)
+### Members registration page
+![Members registration page](/images/member.png)
